@@ -1,8 +1,3 @@
-<!---
-StephanieGCM/StephanieGCM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img align="center" alt="Coding" width="1000" src="https://s3.amazonaws.com/appforest_uf/f1662760822329x204504378650354000/Linkedin%20banner.png">
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">I'm a systems engineering student, located in Nicaragua, passionate about challenges, technology and community interaction. In the last year I have become very interested in cybersecurity and cloud computing, however I have not left programming behind, I am currently working on my portfolio and a library system for my university!</h3>
 
@@ -18,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/marvin-antonio-ortiz-garcia-73a221310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+<a href="www.linkedin.com/in/marvin-antonio-ortiz-garcia-73a221310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
